@@ -52,7 +52,7 @@
 #OfficeCleaning #تنظيف_مكاتب #CommercialCleaning #تنظيف_تجاري #WorkplaceCleaning #تنظيف_مكان_العمل #BusinessCleaning #CorporateCleaning #تنظيف_شركات #OfficeHygiene
 
 ### For Deep Cleaning Posts
-#DeepCleaning #تنظيف_عميق #DeepCleaningService #خدمة_التنظيف_العميق #ThooughCleaning #تنظيف_شامل #DetailedCleaning #SpringCleaning #تنظيف_ربيعي #IntensiveCleaning
+#DeepCleaning #تنظيف_عميق #DeepCleaningService #خدمة_التنظيف_العميق #ThoroughCleaning #تنظيف_شامل #DetailedCleaning #SpringCleaning #تنظيف_ربيعي #IntensiveCleaning
 
 ### For Sterilization Posts
 #Sterilization #تعقيم #Disinfection #تطهير #COVID19Sterilization #تعقيم_كورونا #SanitizationServices #خدمات_التعقيم #HealthAndSafety #الصحة_والسلامة #VirusFree #خالي_من_الفيروسات
