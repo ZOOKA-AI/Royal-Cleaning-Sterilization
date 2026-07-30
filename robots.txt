@@ -1,0 +1,32 @@
+# Royal Cleaning & Sterilization - Robots.txt
+# Allow all search engines to crawl and index
+
+User-agent: *
+Allow: /
+Disallow: /admin/
+Disallow: /private/
+Disallow: /*.json$
+Disallow: /api/
+
+# Sitemap location
+Sitemap: https://www.instagram.com/royal_cleaning_uae/sitemap.xml
+
+# Specific bot instructions
+
+# Google bots
+User-agent: Googlebot
+Allow: /
+
+User-agent: Googlebot-Image
+Allow: /
+
+# Bing bot
+User-agent: Bingbot
+Allow: /
+
+# Yandex (popular in Middle East)
+User-agent: Yandex
+Allow: /
+
+# Crawl delay (optional, adjust if needed)
+Crawl-delay: 1
